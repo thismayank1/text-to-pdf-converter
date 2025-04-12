@@ -33,7 +33,11 @@ streamlit run app.py
 - Download the generated PDF file.
 ## 📷 Screenshot
 
+![image](https://github.com/user-attachments/assets/eed7e508-15ab-4cc1-a85e-d7a83ea4fcce)
+![image](https://github.com/user-attachments/assets/d4092e73-fc3d-4565-bf65-9d5af802b1c0)
+![image](https://github.com/user-attachments/assets/461dc2ef-c4e1-4811-99a5-36c9651931a3)
+
 ## 🌐 Live Demo
-Want to see it live? Deploy it on Streamlit Cloud in just a few clicks!
+
 
 Feel free to fork, star ⭐, or contribute!
