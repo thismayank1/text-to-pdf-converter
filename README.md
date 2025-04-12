@@ -22,8 +22,9 @@ This is a simple Streamlit web app that allows users to convert text content int
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 3. Run the app:
 ```bash
 streamlit run app.py
+```
 
