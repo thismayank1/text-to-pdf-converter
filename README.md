@@ -27,4 +27,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## 💡 Usage
+- Enter your text in the text area.
+- Click "Convert to PDF".
+- Download the generated PDF file.
+## 📷 Screenshot
 
+## 🌐 Live Demo
+Want to see it live? Deploy it on Streamlit Cloud in just a few clicks!
+
+Feel free to fork, star ⭐, or contribute!
